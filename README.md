@@ -103,10 +103,8 @@ be added as a dependency in the file.
 > gist][live-server settings] (you'll only need to do this once), then come back
 > to this lesson.
 
-[live-server]:
-  https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
-[live-server settings]:
-  https://gist.github.com/ihollander/cc5f36c6447d15dea6a16f68d82aacf7
+[live-server]: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+[live-server settings]: https://gist.github.com/ihollander/cc5f36c6447d15dea6a16f68d82aacf7
 
 Next, we'll need to create a file that will act as our data storage.
 
@@ -373,5 +371,4 @@ With JSON Server, you'll now be able to design frontends that persist data!
 [json server]: https://www.npmjs.com/package/json-server
 [status]: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 [postman]: https://www.postman.com/downloads/
-[json viewer]:
-  https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=en-US
+[json viewer]: https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=en-US
